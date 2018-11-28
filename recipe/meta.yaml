@@ -25,7 +25,7 @@ build:
     - lib/
 
 requirements:
-  build:
+  host:
     - r-base
     - r-rjags
 
@@ -54,3 +54,4 @@ extra:
     - bgruening
     - daler
     - jdblischak
+    - dpryan79
