@@ -1,11 +1,11 @@
-About r-purbayes
-================
+About r-purbayes-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-purbayes-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=PurBayes
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-purbayes-feedstock/blob/main/LICENSE.txt)
 
 Summary: PurBayes is an MCMC-based algorithm that uses next-generation sequencing data to estimate tumor purity and clonality for paired tumor-normal data.
 
